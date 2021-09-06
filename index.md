@@ -1,10 +1,12 @@
-## 서유진 이력서
+## 서유진
 
 안녕하세요 서유진입니다.
+만나서 반갑습니다 :)
 
 ### 소속
 
 이화여자대학교
+관현악과
 
 ```markdown
 Syntax highlighted code block
