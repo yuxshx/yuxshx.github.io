@@ -8,6 +8,7 @@
 
 이화여자대학교 관현악과
 
+#### 활동
 
 [연주영상](https://youtu.be/vbaf-CXBO-s)
 
