@@ -31,10 +31,9 @@ seg1115@ewhain.net
 ```
 
 
-[EWUP 연주영상](https://youtu.be/TvFqRp0TA_w)
+[![EWUP 연주영상](https://img.youtube.com/vi/TvFqRp0TA_w/0.jpg)](https://youtu.be/TvFqRp0TA_w)
 
-
-[이화여자대학교오케스트라 연주영상](https://youtu.be/vbaf-CXBO-s)
+[![이화여자대학교오케스트라 연주영상](https://img.youtube.com/vi/vbaf-CXBO-s/0.jpg)](https://youtu.be/vbaf-CXBO-s)
 
 
 
